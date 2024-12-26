@@ -94,7 +94,7 @@ When you're done using the app, you can deactivate the virtual environment by ru
 - **Streamlit UI**: The app consists of a file uploader to upload the PDF, a text area to display the extracted content, and an input field to ask questions related to the PDF.
 
 
-##Example
+## Example
 
 1. **Upload PDF**: Upload a PDF document.
 2. **Ask a Question**: After extracting the text, you can ask questions such as:
@@ -104,7 +104,7 @@ When you're done using the app, you can deactivate the virtual environment by ru
 
 The chatbot will use the context of the PDF to generate answers.
 
-##Limitations
+## Limitations
 
 The quality of the answer depends on the accuracy of the PDF text extraction.
 Large PDFs might result in slower responses due to the amount of text being processed.
